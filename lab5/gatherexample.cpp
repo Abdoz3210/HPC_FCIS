@@ -25,7 +25,7 @@ int main(){
         cout << endl;
     }
     
-
+    
     MPI_Finalize();
     return 0;
 }
